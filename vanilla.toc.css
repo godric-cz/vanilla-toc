@@ -1,0 +1,5 @@
+
+#toc { position: fixed; }
+#toc .active { background-color: red; }
+#toc .collapsed { display: none; }
+#toc div { cursor: pointer; }
